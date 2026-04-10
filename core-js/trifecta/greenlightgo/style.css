@@ -1,0 +1,20 @@
+#traffic-light-div {
+    box-sizing: border-box;
+    border: 5px solid black;
+    background-color: darkgray;
+    height: 400px;
+    width: 200px;
+    padding: 50px;
+  }
+.light {
+  box-sizing: border-box;
+  height: 80px;
+  width: 80px;
+  background-color: silver;
+  border: 5px solid black;
+  border-radius: 50px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  margin-left: 4px;
+}
+  
