@@ -1,0 +1,12 @@
+/*Creating divs using loop ( 2 )
+#box {
+    display: flex;
+    justify-content: space-between;
+}
+#box > div 
+{
+    background-color: thistle;
+    height: 80px;
+    width: 80px;
+}
+*/
