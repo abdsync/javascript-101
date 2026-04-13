@@ -1,7 +1,9 @@
 ## JS-Itenary
 
+<p align="left">
+  <img alt="Javascript" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="100px" height="100px">
+</p>
 
-<img alt="Javascript" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="100px" height="100px">
 
 
 #### A repo which covers enough to what it takes to get started with javascript. 
