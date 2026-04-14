@@ -13,3 +13,4 @@ This repository contains the javascript code i wrote during my learning where i 
 * `/dom` This repo focuses on dynamically changing a webpage's content, structure, or style.
 * `/es6` This repo focuses on the javascript es6 syntax. 
 * `/jquery` This repo focuses on the basics of jquery, a lightweight javascript library.
+
